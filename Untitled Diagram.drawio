@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T06:24:35.414Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="13.10.4" etag="ddo-gSJaNx2ZN0CBYbYX" type="github"><diagram id="lQYpkKnS8sokp78wCIbA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T06:35:57.305Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tnnSt33bGDisP8Q99SKG" version="13.10.4" type="github">
+  <diagram id="lQYpkKnS8sokp78wCIbA" name="Page-1">
+    <mxGraphModel dx="868" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1O2ydsGgOv_d9XNrIWA-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p1O2ydsGgOv_d9XNrIWA-2" value="安放平台中注册ai训练平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1O2ydsGgOv_d9XNrIWA-5" value="自动获取ai训练平台中的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1O2ydsGgOv_d9XNrIWA-6" value="选择模型和设备进行部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1O2ydsGgOv_d9XNrIWA-7" value="配置事件&lt;br&gt;生成事件码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
