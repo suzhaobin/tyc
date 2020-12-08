@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:10:36.292Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="lyprHXuVflTvr0sl02w2" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:11:39.110Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="6fwFoK00AiiZJpTJgqgA" version="13.11.0" type="github">
   <diagram id="vS-CbR307b89ts1L0yDH" name="Page-1">
     <mxGraphModel dx="1102" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="zhftawyRdG9vVM_BVloc-7" value="确认图像保存格式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="390" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zhftawyRdG9vVM_BVloc-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zhftawyRdG9vVM_BVloc-16" value="保存诊断结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.5" y="663" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zhftawyRdG9vVM_BVloc-19" value="N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="zhftawyRdG9vVM_BVloc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zhftawyRdG9vVM_BVloc-22" target="zhftawyRdG9vVM_BVloc-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zhftawyRdG9vVM_BVloc-22" value="图像处理算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zhftawyRdG9vVM_BVloc-22" value="图像压缩算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="448" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zhftawyRdG9vVM_BVloc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zhftawyRdG9vVM_BVloc-24" target="zhftawyRdG9vVM_BVloc-3">
